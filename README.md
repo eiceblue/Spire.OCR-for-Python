@@ -1,0 +1,2 @@
+# Spire.OCR-for-Python
+ Spire.OCR for Python is a robust and professional Optical Character Recognition (OCR) library that enables developers to extract text from images in various formats, including JPG, PNG, GIF, BMP, and TIFF. It provides an intuitive and straightforward solution for integrating OCR capabilities into Python applications, allowing users to extract text from popular image formats with just a few lines of code.
